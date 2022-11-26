@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "fallen"],
-  "repository": "https://github.com/Devarora-0981/SpideyMusic",
+  "repository": "https://github.com/kingali371/SyMusic0",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -54,12 +54,12 @@
     "SUPPORT_CHAT": {
       "description": "Support Group Link of your bot, Must start with https://t.me/",
       "required": false,
-      "value": "https://t.me/DevilsHeavenMF"
+      "القيمة" : "https://t.me/kingdom12a"
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link of your bot, Your link must start with https://t.me/",
       "required": false,
-      "value": "https://t.me/DevilsHeavenMF"
+      "القيمة" : "https://t.me/Z_Q_K1"
     }
   },
   "buildpacks": [
